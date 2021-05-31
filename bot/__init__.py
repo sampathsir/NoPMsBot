@@ -62,11 +62,9 @@ START_COMMAND = get_config("START_COMMAND", "start")
 DEFAULT_START_TEXT = (
     "Hi. ☺️\n"
     "Thank you for using me 😬\n\n"
-      [[
-         InlineKeyboardButton(
-                            text=" This Bot Is Made by this group" 
-                            url="https://t.me/dengerousbots")
-    ]]))
+     "Jᴏɪɴ ʜᴇʀᴇ ᴛᴏ Kɴᴏᴡ Aʙᴏᴜᴛ ʏᴏᴜʀ ᴀʟʟ Bᴏᴛ @dengerousbots"
+     "Tʜɪs ʙᴏᴛ Dɪʀᴇᴄᴛʟʏ Cᴏɴᴛᴛᴇᴄᴛ ᴛᴏ ᴍʀ.Uɴᴋɴᴏᴡɴ"
+)
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
     "START_OTHER_USERS_TEXT",
