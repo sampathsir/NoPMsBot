@@ -63,13 +63,7 @@ DEFAULT_START_TEXT = (
     "Hi. ☺️\n"
     "Thank you for using me 😬\n\n"
     "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/NoPMsBot\n\n\n"
-    "If you are the owner of this bot, "
-    "and are seeing this message 🤦‍♂️, "
-    "means that you have not set up "
-    "the ENVironment variables properly "
-    "for the bot to function.\n\n\n"
-    "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+    "Yᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ Cᴏɴᴛᴀᴄᴛ M.ʀ.Uɴᴋɴᴡᴏɴ"
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
@@ -81,9 +75,8 @@ ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
         "i am online <b>master</b>\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "😊"
+        "Gɪᴠᴇ ʀᴇsᴘᴇᴄᴛ & ᴛᴀᴋᴇ ʀᴇsᴘᴇᴄᴛ"
     )
 )
 # message to indicate,
@@ -93,9 +86,7 @@ DELETED_MESSAGES_NOTIFICATION_TEXT = get_config(
     "DELETED_MESSAGES_NOTIFICATION_TEXT",
     (
         "this message was deleted\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "Aʟᴡᴀʏs ʜᴇʟᴘɪɴɢ ʏᴏᴜ "
     )
 )
 # IDEKWBYRW
