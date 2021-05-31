@@ -62,8 +62,8 @@ START_COMMAND = get_config("START_COMMAND", "start")
 DEFAULT_START_TEXT = (
     "Hi. ☺️\n"
     "Thank you for using me 😬\n\n"
-     "Jᴏɪɴ ʜᴇʀᴇ ᴛᴏ Kɴᴏᴡ Aʙᴏᴜᴛ ʏᴏᴜʀ ᴀʟʟ Bᴏᴛ @dengerousbots"
-     "Tʜɪs ʙᴏᴛ Dɪʀᴇᴄᴛʟʏ Cᴏɴᴛᴛᴇᴄᴛ ᴛᴏ ᴍʀ.Uɴᴋɴᴏᴡɴ"
+     "Jᴏɪɴ ʜᴇʀᴇ ᴛᴏ Kɴᴏᴡ Aʙᴏᴜᴛ ʏᴏᴜʀ ᴀʟʟ Bᴏᴛ [@Dengerousbots]"
+     "Tʜɪs ʙᴏᴛ Dɪʀᴇᴄᴛʟʏ Cᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʀ.Uɴᴋɴᴏᴡɴ [@ABHI_VILAN]"
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
@@ -76,7 +76,7 @@ ONLINE_CHECK_START_TEXT = get_config(
     (
         "i am online <b>master</b>\n\n"
         "😊"
-        "Gɪᴠᴇ ʀᴇsᴘᴇᴄᴛ & ᴛᴀᴋᴇ ʀᴇsᴘᴇᴄᴛ"
+        "Gɪᴠᴇ ʀᴇsᴘᴇᴄᴛ & ᴛᴀᴋᴇ ʀᴇsᴘᴇᴄᴛ BRO"
     )
 )
 # message to indicate,
